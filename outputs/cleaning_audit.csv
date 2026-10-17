@@ -1,0 +1,10 @@
+stage,rows
+input_rows,19653012
+other_or_missing_platform,0
+pickup_outside_month_or_missing,0
+nonpositive_or_nonfinite_numeric,8501
+timestamp_duration_disagreement,718
+unknown_zone_or_nonnyc_origin,928254
+valid_rows_before_pool_filter,18715539
+pool_or_unknown_excluded_from_primary,368990
+primary_rows,18346549

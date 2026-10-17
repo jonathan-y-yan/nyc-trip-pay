@@ -1,0 +1,28 @@
+{
+  "run_utc": "2026-10-14T15:37:36.042115+00:00",
+  "month": "2025-07",
+  "source_url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2025-07.parquet",
+  "input_filename": "fhvhv_tripdata_2025-07.parquet",
+  "input_bytes": 487222980,
+  "source_sha256": "cae4e3d120f9af1a7369dad915dfe9beadda914b08a38ee8c045a4d09f085712",
+  "zones_sha256": "1a99e105092230f8620f301edcca7f80d3080642ff404d28ed957d3fa222c8ed",
+  "script_sha256": "80990327cff40d6c2ad08599169cea095586a9332f892c6f38dd9bdbb363b01d",
+  "rows": {
+    "input_rows": 19653012,
+    "other_or_missing_platform": 0,
+    "pickup_outside_month_or_missing": 0,
+    "nonpositive_or_nonfinite_numeric": 8501,
+    "timestamp_duration_disagreement": 718,
+    "unknown_zone_or_nonnyc_origin": 928254,
+    "valid_rows_before_pool_filter": 18715539,
+    "pool_or_unknown_excluded_from_primary": 368990,
+    "primary_rows": 18346549
+  },
+  "versions": {
+    "python": "3.15.0",
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "pyarrow": "26.0.0"
+  }
+}
